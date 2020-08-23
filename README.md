@@ -1,2 +1,2 @@
-# react-redux-redux-saga-example
+# basic-react-redux-example
 Created with CodeSandbox
